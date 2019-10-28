@@ -1,5 +1,4 @@
-# node.js-event-emitter
-Node.js - Event Emitter
+# Node.js - Event Emitter
 
 #### Example 1: Basic Event Emitter
 #### Example 2: Passing arguments and this to listeners
